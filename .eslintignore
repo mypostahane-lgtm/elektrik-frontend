@@ -1,0 +1,7 @@
+# ESLint ignore file
+build/
+node_modules/
+public/
+src/**/*.js
+src/**/*.jsx
+*.config.js

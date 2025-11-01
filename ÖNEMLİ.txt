@@ -1,0 +1,2 @@
+.env.prodiction dosyasında bir yol var onu değiştirmek gerekebilir
+.env dosyasında bir yol var onu değiştirmek gerekebilir
