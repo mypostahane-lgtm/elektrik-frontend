@@ -11,7 +11,6 @@ import ContactModal from "../components/ContactModal";
 const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
 
 const API = `${BACKEND_URL}/api`;
-
 const PHONE = "05513683020";
 
 const PHONE_DISPLAY = "0551 368 30 20";
