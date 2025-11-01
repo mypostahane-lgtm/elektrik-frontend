@@ -3,5 +3,8 @@
   "devCommand": "yarn start",
   "installCommand": "yarn install",
   "framework": "create-react-app",
-  "outputDirectory": "build"
+  "outputDirectory": "build",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
 }
